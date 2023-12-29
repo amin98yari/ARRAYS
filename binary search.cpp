@@ -15,3 +15,8 @@ else if(x<a[mid])
 else
  i=mid+1;
 mid=(i+j)/2;
+ }
+if(flag==0)
+cout<<"not found";
+}
+
